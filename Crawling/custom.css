@@ -1,0 +1,37 @@
+* {
+    margin: 0px !important;
+    float: none !important;
+    padding: 0px !important;
+    text-decoration: none;
+    list-style: none;
+}
+body {
+    background-color: lightgray;
+}
+#amazon {
+    padding: 0px 30px !important;
+    float: left !important;
+    width: 45% !important;
+}
+#amazon li{
+    list-style: none !important;
+    margin-bottom: 50px !important;
+    padding: 30px !important;
+    background-color: #fff !important;
+}
+
+.currencyINR {
+    display: none !important;
+}
+
+#flip {
+    margin-left: 20px !important;
+    float: left!important;
+    width: 45% !important;
+}
+#flip ._1UoZlX {
+    padding: 25px !important;
+    background-color: #fff;
+    margin-bottom: 20px !important;
+    display: block;
+}

@@ -1,0 +1,79 @@
+* {
+    margin: 0px !important;
+    padding: 0px !important;
+    text-decoration: none;
+    list-style: none;
+}
+body {
+    background-color: lightgray;
+}
+
+#wrapper {
+    display: flex;
+}
+#amazon {
+    padding: 0px 30px !important;
+    /*float: left !important;*/
+    width: 45% !important;
+}
+#amazon li{
+    list-style: none !important;
+    background-color: #fff !important;
+}
+.s-item-container {
+    padding: 30px !important;
+}
+.a-section {
+    text-align: center;
+}
+.product-tuple-description {
+    padding: 20px !important;
+}
+
+.currencyINR {
+    display: none !important;
+}
+
+#flip {
+    margin-left: 20px !important;
+    /*float: left !important;*/
+    width: 45% !important;
+}
+.s-hidden {
+    display: none;
+}
+
+form{
+    text-align : center;
+    margin: 0px !important;
+    float: none !important;
+    padding: 0px !important;
+    text-decoration: none;
+    list-style: none;
+
+    }
+
+input{
+     font-size : 40px;
+     font-family : Times New Roman;
+
+     }
+
+h1{
+     text-align : center;
+     font-size : 50px;
+     font-family : Comic Sana;
+  }
+
+ label{
+      font-size : 40px;
+      font-family : Times New Roman;
+      }
+
+.favDp{
+    background-color: #fff;
+}
+
+.product-tuple-image {
+    text-align: center;
+}

@@ -1,0 +1,43 @@
+* {
+    margin: 0px;
+    float: none;
+    padding: 0px;
+    text-decoration: none;
+    list-style: none;
+}
+body {
+    background-color: lightgray;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 30px !important;
+}
+
+.prodcut-listing {
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.prodcut-listing ul {
+    width: 25%;
+    padding: 20px;
+    margin: 0px 20px 50px;
+    background-color: #fff;
+}
+
+.prodcut-listing img {
+    width: 60%;
+    margin: 0 auto;
+    display: block;
+}
+
+.ratng-right {
+    display: none;
+}
+
+.rating-img img {
+    width: auto;
+    height: auto;
+}
